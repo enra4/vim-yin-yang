@@ -190,7 +190,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bcbcbc</string>
+				<string>#8a8a8a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -275,7 +275,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string></string>
+				<string>#870000</string>
 			</dict>
 		</dict>
 	</array>
